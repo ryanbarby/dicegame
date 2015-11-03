@@ -145,4 +145,5 @@ print("Better luck next time", loser, ". Maybe you can challenge", winner, "to a
 time.sleep(5.0)
 os.system("cls")
 
+intro()
 print("Thank you so much for playing and Have a wonderful day!")
